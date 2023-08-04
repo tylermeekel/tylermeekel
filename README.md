@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello, I'm Tyler!
+ I am a **Software Development** student with a passion for minimal design, and a deep excitement for the world of web development.
 
-<!--
-**tylermeekel/tylermeekel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ### ☑️ Quick Facts
+ - **Pronouns**: He/Him
+ - **Hometown**: Calgary, AB
+ - **Hobbies**: Reading comics, playing video games, spending time out in nature
 
-Here are some ideas to get you started:
+### 💻 Some Projects
+- "Social Media" Web App
+- Kanban Board using Svelte
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤓 Currently Learning
+- Go
+- HTMX
+- Accessible Design
+
+### 🏗️ Currently Working On
+- This README
+- A new TODOs app built with Go, Postgres and HTMX
+- A new portfolio website, utilizing [this](https://silicon-css.com/) framework by another Tyler
