@@ -17,5 +17,5 @@
 
 ### 🏗️ Currently Working On
 - This README
-- A new TODOs app built with Go, Postgres and HTMX
+- A new note-taking app built with Go, Postgres and HTMX
 - A new portfolio website, utilizing [this](https://silicon-css.com/) framework by another Tyler
