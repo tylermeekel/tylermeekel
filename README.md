@@ -7,15 +7,15 @@
  - **Hobbies**: Reading comics, playing video games, spending time out in nature
 
 ### 💻 Some Projects
+- [eGoNote](https://www.egonote.app)
 - "Social Media" Web App
 - Kanban Board using Svelte
 
 ### 🤓 Currently Learning
 - Go
-- HTMX
-- Accessible Design
+- WebRTC
+- Concurrency (in Go)
 
 ### 🏗️ Currently Working On
-- This README
-- A new note-taking app built with Go, Postgres and HTMX
-- A new portfolio website, utilizing [this](https://silicon-css.com/) framework by another Tyler
+- Re-building my note-taking app with a React front-end
+- A P2P file sharing command-line application 
