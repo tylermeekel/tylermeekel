@@ -13,9 +13,7 @@
 - Kanban Board using Svelte
 
 ### 🤓 Currently Learning
-- Go
-- [Writing an Interpreter](https://interpreterbook.com/)
-- [Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+- Swift
 
 ### 🏗️ Currently Working On
-- Re-building my note-taking app with a React front-end
+- Learning Swift
