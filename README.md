@@ -3,17 +3,19 @@
 
  ### ☑️ Quick Facts
  - **Pronouns**: He/Him
- - **Hometown**: Calgary, AB
- - **Hobbies**: Reading comics, playing video games, spending time out in nature
+ - **Hometown**: Calgary, AB, Canada
+ - **Hobbies**: Reading, hiking, more programming, card and board games
 
 ### 💻 Some Projects
 - [Sheer](https://www.github.com/tylermeekel/sheer)
-- [eGoNote](https://www.egonote.app)
-- "Social Media" Web App
+- egoNote
 - Kanban Board using Svelte
+- Manacrypt (Magic the Gathering Card Collection Tracker)
 
 ### 🤓 Currently Learning
-- Swift
+- Gleam
+- Mobile Application Development
+- Graphics Programming
 
 ### 🏗️ Currently Working On
-- Learning Swift
+- My new website, Manacrypt, a full-stack web application built almost entirely in Gleam!
